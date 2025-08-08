@@ -15,6 +15,7 @@ Each row represents a wine sample with the following features:
 - Quality (Target variable)
 
 📌 [Download the dataset](https://www.kaggle.com/datasets/uciml/red-wine-quality-cortez-et-al-2009)
+OR use the uploaded file for reference. 
 
 ---
 
@@ -71,7 +72,7 @@ Each row represents a wine sample with the following features:
 ## 🧾 How to Use
 
 1. **Open the Colab notebook** here:  
-   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1nLY87RWM0Lee4U6s4Pb2Hfo5HdXie0oI)
+   [![Open In Colab](https://colab.research.google.com/drive/1tymKBkFhVA3AT8CNJ5RrhD1pIxNsnKNb#scrollTo=SFr0bygYTjzN)
 
 2. **Upload** the `wine_data.csv` file (from Kaggle or UCI).
 
